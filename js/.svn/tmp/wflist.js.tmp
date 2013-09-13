@@ -1,0 +1,47 @@
+
+
+var serviceURL = "mockup-services/";
+
+var wfs;
+
+
+$('#wfListPage').bind('pageinit', function(event) {
+	getWfList();
+});
+
+function getWfList() {
+	$.getJSON(serviceURL + 'wfs.json', function(data) {
+		$('#wfList li').remove();
+		wfs = data.items;
+		$.each(wfs, function(index, wf) {
+<<<<<<< .mine
+		$('#wfList').append('<li><a href="wfdetails.html?id=' + wf.id + '" data-transition="flip">' +
+=======
+			
+			
+		$('#wfList').append('<li detailId="' + wf.id + '"><a href="#">' +
+>>>>>>> .r340
+					'<img src="pics/' + wf.type + '.png"/>' +
+					'<h4>' +wf.subject + '</h4>' +
+					'<p>' + wf.description + '</p>' +
+					'<span class="wf-list-destra1">' + wf.property1 + '</span>'+
+					'<span class="wf-list-destra2">' + wf.property2	+ '</span></a></li>');
+		});
+		$('#wfList').listview('refresh');
+	});
+}
+var detailId = 0;
+$('#wfList').delegate('li', 'click', function() {
+	detailId = $(this).get(0).getAttribute('detailId');
+	var id = detailId;
+	$.getJSON(serviceURL + 'wf_id'+id+'.json?id='+id, StoreDettagliWf);
+	$.mobile.changePage( "#detailsPage", { transition: "flip"} );
+
+	//alert("detailId="+detailId);
+});
+
+var wf;
+
+function StoreDettagliWf(data) {
+	wf = data.item;
+}
