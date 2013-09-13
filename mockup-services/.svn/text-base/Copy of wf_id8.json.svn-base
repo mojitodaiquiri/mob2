@@ -1,0 +1,76 @@
+{
+	"item": {
+			"id": "11",
+			"type": "timesheet",
+			"timestamp": "20120223102058",
+			"deleted": "false",
+			"subject": "Marco Rossi",
+			"description": "Ferie",
+			"property1": "8hh",
+			"property2": "21/02/2012",
+			"properties": [
+				{
+					"name":"prop1",
+					"value":"value prop1",
+					"url":"#",    
+					"icon":"alert" 
+				},	
+				{
+					"name":"prop2",
+					"value":"value prop2 mokkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk",
+					"url":"#",    
+					"icon":"false" 
+				},	
+				{
+					"name":"prop3",
+					"value":"value prop3",
+					"url":"#",    
+					"icon":"alert" 
+				},	
+				{
+					"name":"prop4",
+					"value":"value prop4",
+					"url":"#",    
+					"icon":"false" 
+				}	
+			],
+			"attachments": [
+				{
+					"descr":"Un file pdf",
+					"url":"mockup-services/files/esempio.pdf",    
+					"size":"1290",    
+					"img":"pics/filetypes/pdf.png"					 
+				},	
+				{
+					"descr":"Un file Excel",
+					"url":"mockup-services/files/esempio.xls",    
+					"size":"312412",    
+					"img":"pics/filetypes/xls.png"					 
+				},	
+				{
+					"descr":"Un file word",
+					"url":"mockup-services/files/esempio.doc",    
+					"size":"1234",    
+					"img":"pics/filetypes/doc.png" 
+				}	
+			],
+			"contacts": [
+				{
+					"name":"Gianni Di Marco",
+					"descr":"Approvata la richiesta: tutto bene",
+					"descr2":"13/02/2012",
+					"fixphone":"0106583458",    
+					"cellphone":"3356001395",    
+					"email":"gianni.dimarco@selexelsag.com"					 
+				},	
+				{
+					"name":"Luca Ricolfi",
+					"descr":"Prossimo nella catena autorizzativa",
+					"descr2":"",
+					"fixphone":"0106583458",    
+					"cellphone":"",    
+					"email":"luca.ricolfi@selexelsag.com"					 
+				}	
+			]
+	}
+}

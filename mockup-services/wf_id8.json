@@ -1,0 +1,82 @@
+{
+	"item": {
+			"id": "8",
+			"type": "travel",
+			"timestamp": "20120223102058",
+			"deleted": "false",
+			"subject": "Gianni Di Marco",
+			"description": "Presentazione c/o Cetena",
+			"property1": "320.00€",
+			"property2": "10/02/2012",
+			"properties": [
+				{
+					"name":"Data Trasferta",
+					"value":"10/12/2012",
+					"url":"#",    
+					"icon":"false" 
+				},	
+				{
+					"name":"Luogo",
+					"value":"Savona",
+					"url":"#",    
+					"icon":"false" 
+				},	
+				{
+					"name":"Cliente",
+					"value":"Cetena (Finc.)",
+					"url":"#",    
+					"icon":"false" 
+				},	
+				{
+					"name":"WBE",
+					"value":"X.1234567800",
+					"url":"#",    
+					"icon":"false" 
+				},	
+				{
+					"name":"Progetto",
+					"value":"Ricerca tecnologie digitale",
+					"url":"#",    
+					"icon":"false" 
+				},	
+				{
+					"name":"Budget residuo",
+					"value":"1800€",
+					"url":"#",    
+					"icon":"alert" 
+				},	
+				{
+					"name":"Note",
+					"value":"Il cliente si è impegnato a rimborsare a forfait le trasferte, vedi email del 18/05/2011",
+					"url":"#",    
+					"icon":"false" 
+				}	
+			],
+			"attachments": [
+				{
+					"descr":"Email del 18/05/2011",
+					"url":"mockup-services/files/esempio.pdf",    
+					"size":"1290",    
+					"img":"pics/filetypes/pdf.png"					 
+				}	
+			],
+			"contacts": [
+				{
+					"name":"Gianni Di Marco",
+					"descr":"Il richiedente",
+					"descr2":"7/02/2012",
+					"fixphone":"0106583458",    
+					"cellphone":"3356001395",    
+					"email":"gianni.dimarco@selexelsag.com"					 
+				},	
+				{
+					"name":"Luca Ricolfi",
+					"descr":"Cost Controller",
+					"descr2":"",
+					"fixphone":"0106583458",    
+					"cellphone":"",    
+					"email":"luca.ricolfi@selexelsag.com"					 
+				}	
+			]
+	}
+}

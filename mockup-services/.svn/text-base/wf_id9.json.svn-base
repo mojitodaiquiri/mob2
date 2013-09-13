@@ -1,0 +1,64 @@
+{
+	"item": {
+			"id": "11",
+			"type": "timesheet",
+			"timestamp": "20120223102058",
+			"deleted": "false",
+			"subject": "Marco Rossi",
+			"description": "Ferie",
+			"property1": "8hh",
+			"property2": "21/02/2012",
+			"properties": [
+				{
+					"name":"Data",
+					"value":"21/02/2012",
+					"url":"#",    
+					"icon":"false" 
+				},	
+				{
+					"name":"Da",
+					"value":"8:15",
+					"url":"#",    
+					"icon":"false" 
+				},	
+				{
+					"name":"A",
+					"value":"17:00",
+					"url":"#",    
+					"icon":"false" 
+				},	
+				{
+					"name":"Residuo Ferie",
+					"value":"88",
+					"url":"#",    
+					"icon":"alert" 
+				},	
+				{
+					"name":"Note",
+					"value":"Ho assoluto bisogno di assentarmi, ci sono motivi personali molto seri",
+					"url":"#",    
+					"icon":"false" 
+				}	
+			],
+			"attachments": [
+			],
+			"contacts": [
+				{
+					"name":"Marco Rossi",
+					"descr":"Richiedente",
+					"descr2":"13/02/2012",
+					"fixphone":"0106583458",    
+					"cellphone":"3356001395",    
+					"email":"gianni.dimarco@selexelsag.com"					 
+				},	
+				{
+					"name":"Paolo Bianchi",
+					"descr":"HR Manager",
+					"descr2":"",
+					"fixphone":"0106583458",    
+					"cellphone":"",    
+					"email":"paolo.bianchi@selexelsag.com"					 
+				}	
+			]
+	}
+}

@@ -1,0 +1,32 @@
+{
+	"items": [
+		{
+			"id": "8",
+			"type": "travel",
+			"timestamp": "20120223102053",
+			"deleted": "false",
+			"subject": "Gianni Di Marco",
+			"description": "Presentazione c/o Cetena",
+			"property1": "320.00€",
+			"property2": "10/12/2012"
+		}, {
+			"id": "9",
+			"type": "timesheet",
+			"timestamp": "20120223102058",
+			"deleted": "false",
+			"subject": "Marco Rossi",
+			"description": "Ferie",
+			"property1": "8hh",
+			"property2": "21/02/2012"
+		}, {
+			"id": "10",
+			"type": "rda",
+			"timestamp": "20120223102058",
+			"deleted": "false",
+			"subject": "R123098000",
+			"description": "Gruppo elettrogeno supp.",
+			"property1": "1567.00€",
+			"property2": "22/02/2012"
+		}
+	]
+}

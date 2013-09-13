@@ -1,0 +1,16 @@
+<!DOCTYPE HTML>
+<html>
+	<head></head>
+	<body>
+		<div id="attachmentPage" data-role="page" data-add-back-btn="true">
+			<div data-role="header" data-position="fixed">
+				<h1></h1>
+			</div>
+			<div data-role="content id="attpagecontent" width="100% height="800">
+				<iframe  id="attachmentContent">
+            		<p>Your browser does not support iframes.</p>
+        		</iframe>
+			</div>
+		</div>
+	</body>
+</html>

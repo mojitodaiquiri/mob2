@@ -1,0 +1,114 @@
+{
+	"item": {
+			"id": "10",
+			"type": "rda",
+			"timestamp": "20120223102058",
+			"deleted": "false",
+			"subject": "R123098000",
+			"description": "Gruppo elettrogeno supp.",
+			"property1": "1567.00€",
+			"property2": "22/02/2012",
+			"properties": [
+				{
+					"name":"Richiedente",
+					"value":"Gino Parodi",
+					"url":"#",    
+					"icon":"false" 
+				},	
+				{
+					"name":"Cod.Mat.",
+					"value":"C12536157",
+					"url":"#",    
+					"icon":"false" 
+				},	
+				{
+					"name":"Descr.Mat.",
+					"value":"Gruppo elettrogeno supp.",
+					"url":"#",    
+					"icon":"false" 
+				},	
+				{
+					"name":"Quantità",
+					"value":"1 PZ",
+					"url":"#",    
+					"icon":"false" 
+				},	
+				{
+					"name":"Gruppo Merci",
+					"value":"D1765",
+					"url":"#",    
+					"icon":"false" 
+				},	
+				{
+					"name":"WBE",
+					"value":"X1234567.00",
+					"url":"#",    
+					"icon":"false" 
+				},	
+				{
+					"name":"El.Cont.",
+					"value":"P168723",
+					"url":"#",    
+					"icon":"false" 
+				},	
+				{
+					"name":"Divisione",
+					"value":"CKKR",
+					"url":"#",    
+					"icon":"false" 
+				},	
+				{
+					"name":"Note",
+					"value":"Concordare con il fornitore per una consegna provvista di supporto e alimentazione per diversi paesi e con assoluta e completa adesione agli standard GSS",
+					"url":"#",    
+					"icon":"alert" 
+				}	
+			],
+			"attachments": [
+				{
+					"descr":"Specifica di massima",
+					"url":"mockup-services/files/esempio.pdf",    
+					"size":"1290",    
+					"img":"pics/filetypes/pdf.png"					 
+				},	
+				{
+					"descr":"Prospetto di ricerca",
+					"url":"mockup-services/files/esempio.xls",    
+					"size":"312412",    
+					"img":"pics/filetypes/xls.png"					 
+				},	
+				{
+					"descr":"Accordi fornitore prec.",
+					"url":"mockup-services/files/esempio.doc",    
+					"size":"1234",    
+					"img":"pics/filetypes/doc.png" 
+				}	
+			],
+			"contacts": [
+				{
+					"name":"Gino Parodi",
+					"descr":"Il richiedente",
+					"descr2":"13/02/2012",
+					"fixphone":"0106583458",    
+					"cellphone":"3356001395",    
+					"email":"gianni.dimarco@selexelsag.com"					 
+				},	
+				{
+					"name":"Luca Ricolfi",
+					"descr":"Approvata SD il 28/03/2011",
+					"descr2":"",
+					"fixphone":"0106583458",    
+					"cellphone":"",    
+					"email":"luca.ricolfi@selexelsag.com"					 
+				},	
+				{
+					"name":"Sergio Campi",
+					"descr":"Prossimo ad autorizzare",
+					"descr2":"",
+					"fixphone":"",    
+					"cellphone":"3356001395",    
+					"email":"sergio.campi@selexelsag.com"					 
+				}	
+			]
+	}
+}
